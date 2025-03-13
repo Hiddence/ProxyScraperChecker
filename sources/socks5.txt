@@ -1,0 +1,16 @@
+https://raw.githubusercontent.com/TheSpeedX/PROXY-List/master/socks5.txt
+https://raw.githubusercontent.com/ShiftyTR/Proxy-List/master/socks5.txt
+https://raw.githubusercontent.com/monosans/proxy-list/main/proxies/socks5.txt
+https://raw.githubusercontent.com/jetkai/proxy-list/main/online-proxies/txt/proxies-socks5.txt
+https://raw.githubusercontent.com/roosterkid/openproxylist/main/SOCKS5_RAW.txt
+https://raw.githubusercontent.com/hookzof/socks5_list/master/proxy.txt
+https://raw.githubusercontent.com/rdavydov/proxy-list/main/proxies/socks5.txt
+https://raw.githubusercontent.com/mmpx12/proxy-list/master/socks5.txt
+https://raw.githubusercontent.com/prxchk/proxy-list/main/socks5.txt
+https://raw.githubusercontent.com/ErcinDedeoglu/proxies/main/proxies/socks5.txt
+https://raw.githubusercontent.com/zevtyardt/proxy-list/main/socks5.txt
+https://raw.githubusercontent.com/proxifly/free-proxy-list/main/proxies/protocols/socks5/data.txt
+https://raw.githubusercontent.com/proxylist-to/proxy-list/main/socks5.txt
+https://www.proxy-list.download/api/v1/get?type=socks5
+https://api.proxyscrape.com/v2/?request=getproxies&protocol=socks5
+https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc&filterUpTime=90&protocols=socks5

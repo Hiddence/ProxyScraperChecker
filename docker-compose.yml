@@ -1,0 +1,9 @@
+services:
+  proxy-scraper-checker:
+    build:
+      context: .
+    volumes:
+      - ./out:/app/out
+      - ./sources:/app/sources
+      - ./config.yaml:/app/config.yaml
+    restart: "no"

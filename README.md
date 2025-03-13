@@ -82,7 +82,7 @@ A high-performance proxy scrapper and checker written in Go. This tool allows yo
 
 Or using Docker Compose:
    ```bash
-   docker-compose up
+   docker compose up
    ```
 
 ## Configuration
@@ -188,7 +188,7 @@ The tool will automatically normalize all proxy formats to IP:PORT format during
 
 Or using Docker Compose:
    ```bash
-   docker-compose up
+   docker compose up
    ```
 
 ## Output

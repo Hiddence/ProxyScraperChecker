@@ -63,3 +63,4 @@ https://raw.githubusercontent.com/zloi-user/hideip.me/refs/heads/master/http.txt
 https://raw.githubusercontent.com/zloi-user/hideip.me/refs/heads/master/https.txt
 https://www.proxy-list.download/api/v1/get?type=http
 https://www.proxy-list.download/api/v1/get?type=https
+https://rcloak.com/api/proxies/raw?protocol=http
